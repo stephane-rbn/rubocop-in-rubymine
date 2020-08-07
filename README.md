@@ -1,5 +1,7 @@
 # Run Rubocop on save in RubyMine
 
+> Disclaimer: this guide is not perfect. It is not fast and rubocop will be often run even without saving the current file. Feel free to improve this guide!
+
 ## Rubocop linter installation
 
 First, you need Rubocop itself installed on your machine for your project. Simply follow the official [instructions](https://github.com/rubocop-hq/rubocop/blob/master/README.md):
