@@ -1,6 +1,8 @@
 # Run Rubocop on save in RubyMine
 
-> Disclaimer: this guide is not perfect. It is not fast and rubocop will be often run even without saving the current file. Feel free to improve this guide!
+I wanted something similar to JavaScript's prettier.
+
+> Disclaimer: this guide is not perfect. It is not as fast as prettier and rubocop will be often run even without saving the current file. Feel free to improve this guide!
 
 ## Rubocop linter installation
 
