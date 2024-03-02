@@ -1,3 +1,5 @@
+> :warning: **Guide written in 2020:** I haven't used RubyMine or coded in Ruby for years, so this guide might be outdated.
+
 # Run Rubocop on save in RubyMine
 
 I wanted something similar to JavaScript's prettier.
